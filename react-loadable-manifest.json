@@ -1,0 +1,32 @@
+{
+  "..\\src\\components\\header\\second-navbar\\NavLinks.js -> ./NavCategory": {
+    "id": 70061,
+    "files": [
+      "static/chunks/6636.dd8b6ca2ec91bad3.js",
+      "static/chunks/61.cdcd54b93db5d1bf.js"
+    ]
+  },
+  "..\\src\\components\\header\\second-navbar\\NavLinks.js -> ./NavStore": {
+    "id": 7107,
+    "files": [
+      "static/chunks/6636.dd8b6ca2ec91bad3.js",
+      "static/chunks/7107.37706cadbcf66248.js"
+    ]
+  },
+  "..\\src\\components\\landing-page\\hero-section\\HeroSection.js -> ./module-selection/ModuleSelectionRaw": {
+    "id": 5429,
+    "files": []
+  },
+  "..\\src\\components\\landing-page\\index.js -> ./Testimonials": {
+    "id": 30949,
+    "files": [
+      "static/chunks/949.a1e5f7b745247ff2.js"
+    ]
+  },
+  "auth\\sign-up\\index.js -> ../../../src/components/auth/sign-up/SignUp": {
+    "id": 96779,
+    "files": [
+      "static/chunks/6779.d2f16cc7f505b818.js"
+    ]
+  }
+}
